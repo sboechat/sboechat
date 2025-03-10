@@ -1,4 +1,4 @@
-## Hi there 👋
+## Seja bem-vindo! 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sboechat)](https://github.com/sboechat)
 
 <!--

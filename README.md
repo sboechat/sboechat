@@ -1,5 +1,5 @@
 ## Seja bem-vindo! 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sboechat)](https://github.com/sboechat)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sboechat&show_icons=true&theme=radical)](https://github.com/sboechat)
 
 <!--
 **sboechat/sboechat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

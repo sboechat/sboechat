@@ -3,10 +3,10 @@
 Sou um entusiasta de tecnologia desde a infância, interessado principalmente por programação e desenvolvimento de sistemas, com ênfase em Python, Java, Kotlin e Desenvolvimento Web utilizando HTML, CSS e JavaScript. Além de conhecimentos em programação orientada a objetos, C/C++, banco de dados relacionais, SQL, Metodologias ágeis, testes, construção de APIs, Linux, frameworks como Spring Boot e Django, bibliotecas como Selenium e Bootstrap e, principalmente, muita vontade de aprender coisas novas! Busco por uma oportunidade de entrar no mercado de trabalho.
 
 <a href="https://github.com/sboechat">
-  <img style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api?username=sboechat&show_icons=true&theme=radical" />
+  <img align= "top" src="https://github-readme-stats.vercel.app/api?username=sboechat&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/sboechat">
-  <img style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sboechat&layout=compact&theme=radical" />
+  <img align= "top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sboechat&layout=compact&theme=radical" />
 </a>
 
 <!--

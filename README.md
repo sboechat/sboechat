@@ -3,10 +3,10 @@
 
 
 <a href="https://github.com/sboechat">
-  <img style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api?username=sboechat&show_icons=true&theme=radical" />
+  <img style="vertical-align: text-top;" src="https://github-readme-stats.vercel.app/api?username=sboechat&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/sboechat">
-  <img style="vertical-align: top;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sboechat&layout=compact&theme=radical" />
+  <img style="vertical-align: text-top;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sboechat&layout=compact&theme=radical" />
 </a>
 
 <!--
